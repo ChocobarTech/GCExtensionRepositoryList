@@ -1,0 +1,10 @@
+{
+    "_comment": "Graycrown will automatically parse the link as www.example.com/extensions/extension.js",
+    "extensions": [
+        {
+            "name": "Heker Treker",
+            "description": "we trek hengker",
+            "file": "treker.js"
+        }
+    ]
+}
